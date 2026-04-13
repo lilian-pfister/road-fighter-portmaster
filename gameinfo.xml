@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameinfo>
+    <game>
+        <name>Road Fighter</name>
+        <desc>A classic racing game where players control a car and must race against other opponents while avoiding obstacles.</desc>
+        <developer>Konami</developer>
+        <publisher>Konami</publisher>
+        <release>
+            <region>Japan</region>
+            <date>1984-12-01</date>
+        </release>
+        <genre>Racing</genre>
+        <player>1-2</player>
+        <source>arcade</source>
+        <image>road_fighter.png</image>
+        <video>road_fighter.mp4</video>
+    </game>
+</gameinfo>
